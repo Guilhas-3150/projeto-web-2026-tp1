@@ -1,5 +1,7 @@
 # projeto-web-2026-tp1
+
 MyCambridge - Aplicações Web 2026/2027
+
 Descrição: Website destinado à gestão académica e presença institucional da escola MyCambridge. A plataforma foca-se em unificar a comunidade escolar, criando um ambiente digital centralizado que combina uma área reservada para gestão de turmas e partilha de materiais de estudo, com a apresentação pública da história da instituição, do seu corpo docente e dos valores das mensalidades.
 
 Autores e Turma
