@@ -7,7 +7,9 @@ Descrição: Website destinado à gestão académica e presença institucional d
 Autores e Turma
 
 Guilherme Lopes (2023135271) - TP1
+
 Leonardo Moura (2024153454) - TP2
+
 Disciplina: Aplicações Web (Licenciatura em Informática de Gestão - ISCAC)
 Estado Atual do Desenvolvimento
 
